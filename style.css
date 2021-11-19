@@ -1,0 +1,21 @@
+.flex-container{
+    display: flex;
+}
+
+.flex-container div{
+    background-color: blue;
+    border: 10px green;
+    height: 100px;
+    flex: 1;
+}
+
+.header{
+    display: flex;
+}
+
+.header p{
+    width: 20px;
+    border: 100px green;
+    color: white;
+    flex: 1;
+}
